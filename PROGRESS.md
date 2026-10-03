@@ -225,3 +225,4 @@ hold prone, X reload/use, Y switch weapon, RB grenade, LB tactical, D-pad action
   ours (it used to SetLocation/SetPhysics whatever pc.Pawn was); after getting out, MW2 control resumes by
   itself (retried 1/s for 20 s). start_drive now waits until MW2's player finished its last teleport (test
   caught a resume saving a void "home"). Test covers vehicle handover + resume. Installed (BL2 restart).
+- 2026-10-03 (28): Published: https://github.com/10971918/border-warfare-2 (public, MIT, issues on, topics set). README/CONTRIBUTING/STATUS/LICENSE/run_tests.bat added; all 9 test suites pass.
