@@ -1,0 +1,11 @@
+[project]
+name = "bw2"
+version = "0.1.0"
+authors = [{ name = "Border Warfare 2 contributors" }]
+description = "Border Warfare 2: Modern Warfare 2 gunplay in Borderlands 2 (host side). M1: link + puppet."
+
+[tool.sdkmod]
+name = "Border Warfare 2"
+supported_games = ["BL2"]
+coop_support = "Incompatible"
+license = { name = "MIT", url = "https://choosealicense.com/licenses/mit/" }

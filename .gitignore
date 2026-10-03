@@ -1,0 +1,9 @@
+bin/
+logs/
+backups/
+_refs/
+tools/re/cache/
+__pycache__/
+*.pyc
+*.mp4
+*.dmp
